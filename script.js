@@ -1,4 +1,6 @@
 function marinaraSauce(cookName) {
+    var two = 2;
+    var oneFourth = "1/4";
     console.log ("Hey! " + cookName + "!" + " This is my marinara sauce recipe! "); 
     console.log('- Heat a meduium-large saucepan over medium heat.');
     console.log('- Add 2 tspns of oil and 5 garlic cloves, cook until golden, about 2 minutes');
